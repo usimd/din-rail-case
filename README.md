@@ -2,6 +2,8 @@
 
 FreeCAD project for a DIN rail case housing a Raspberry Pi Pico (W). 
 
+![Enclosure for a DIN-Rail mounted device](din-rail-case-screenshot.png "Enclosure for a DIN-Rail mounted device")
+
 Features:
 * M2 screw standoffs for the Pico
 * two spots for two contact terminal blocks (I went for [WJ126V-5.0-2P](https://www.lcsc.com/product-detail/C8404.html), other Phoenix PT-style should also work)
